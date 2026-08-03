@@ -1,0 +1,2 @@
+# Global-COVID-19-Impact-Dashboard-Severity-Analysis-from-Raw-JHU-Data
+A 229,743-row analytical model transforms raw CSSE time-series files through a full unpivot-group-merge ETL pipeline. The project catches a critical 6x data aggregation error before publishing, applies a statistical threshold to eliminate small-sample distortion, and surfaces a major counter-intuitive finding: case volume does not predict severity.
