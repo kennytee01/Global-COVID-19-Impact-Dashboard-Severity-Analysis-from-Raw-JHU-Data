@@ -105,13 +105,13 @@ Every dataset requires decisions that are not visible in the final dashboard unl
 
 **Page 1, Covid Impact Dashboard**
 KPI row (Total Confirmed, Total Deaths, Countries Affected, and a Death Rate gauge benchmarked against a 0-5% scale), a Daily New Cases trend line showing the pandemic's wave pattern, and a dual-axis Confirmed-vs-Deaths growth chart.
-## Dashboard
 
 **Covid_Impact_Overview**
 ![Covid_Impact_Overview](Covid_Impact_Dashboard.png)
 
 **Page 2, Covid Comparison Dashboard**
 A Top 15 Countries bar chart by confirmed case volume, a Death Rate treemap filtered for statistical reliability, a Confirmed-vs-Death-Rate scatter chart testing whether volume predicts severity, and an Outcome Breakdown donut exposing the 78.7% unresolved-case gap.
+
 **Covid_Comparison_Dashboard**
 ![Covid_Comparison](Covid_Comparison_Dashboard.png)
 
